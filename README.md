@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++,DSA,Python, Machine Learning
 - 📫 How to reach me: quantavoid@gmail.com, https://www.linkedin.com/in/siddhant-kumar-keshri-504116239/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love writing poems.
+- ⚡ Fun fact: I love writing poems. 
 -->
