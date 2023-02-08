@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**quantavoid11/quantavoid11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**quantavoid11/quantavoid11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning Deep Learning and Dart.
 - 👯 I’m looking to collaborate on open source projects related to Machine Learning.
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: quantavoid@gmail.com, https://www.linkedin.com/in/siddhant-kumar-keshri-504116239/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love writing poems. 
--->
