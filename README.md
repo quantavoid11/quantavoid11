@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**quantavoid11/quantavoid11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---**quantavoid11/quantavoid11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 - 🌱 I’m currently learning Deep Learning and Dart.
 - 👯 I’m looking to collaborate on open source projects related to Machine Learning.
