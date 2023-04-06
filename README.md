@@ -10,4 +10,4 @@
 - 📫 How to reach me: quantavoid@gmail.com, https://www.linkedin.com/in/siddhant-kumar-keshri-504116239/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love writing poems. 
-- [![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantavoid11)](https://github.com/anuraghazra/github-readme-stats)
+
