@@ -11,3 +11,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love writing poems. 
 
+[![quantavoid's GitHub | Stats](https://stats.quine.sh/quantavoid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=quantavoid)
