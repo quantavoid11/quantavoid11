@@ -9,6 +9,6 @@
 - 💬 Ask me about C++,DSA,Python, Machine Learning
 - 📫 How to reach me: quantavoid@gmail.com, https://www.linkedin.com/in/siddhant-kumar-keshri-504116239/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love writing poems. 
+- ⚡ Fun fact: I love writing poems and playing games. 
 
 [![quantavoid's GitHub | Stats](https://stats.quine.sh/quantavoid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=quantavoid)
